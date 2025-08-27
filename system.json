@@ -57,7 +57,7 @@
   },
   "primaryTokenAttribute": "attributes.hp",
   "secondaryTokenAttribute": null,
-  "url": "#{URL}#",
-  "manifest": "#{MANIFEST}#",
-  "download": "#{DOWNLOAD}#"
+  "url": "https://github.com/thibaud200/cof",
+"manifest": "https://raw.githubusercontent.com/thibaud200/cof/master/system.json",
+"download": "https://github.com/thibaud200/cof/archive/refs/heads/master.zip"
 }
